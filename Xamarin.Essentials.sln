@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFCTest", "NFCTest\NFCTest.csproj", "{E3B9596B-DB1A-4AF5-A2CF-D041426563FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFCTagReader", "xamarin ios-samples main ios11-NFCTagReader_NFCTagReader\NFCTagReader.csproj", "{54884505-4ADB-4CFA-806E-7D1173F0D8B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3B9596B-DB1A-4AF5-A2CF-D041426563FF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E3B9596B-DB1A-4AF5-A2CF-D041426563FF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{E3B9596B-DB1A-4AF5-A2CF-D041426563FF}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{E3B9596B-DB1A-4AF5-A2CF-D041426563FF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E3B9596B-DB1A-4AF5-A2CF-D041426563FF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E3B9596B-DB1A-4AF5-A2CF-D041426563FF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E3B9596B-DB1A-4AF5-A2CF-D041426563FF}.Release|iPhone.Build.0 = Release|iPhone
+		{E3B9596B-DB1A-4AF5-A2CF-D041426563FF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E3B9596B-DB1A-4AF5-A2CF-D041426563FF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{54884505-4ADB-4CFA-806E-7D1173F0D8B6}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{54884505-4ADB-4CFA-806E-7D1173F0D8B6}.Debug|iPhone.Build.0 = Debug|iPhone
+		{54884505-4ADB-4CFA-806E-7D1173F0D8B6}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{54884505-4ADB-4CFA-806E-7D1173F0D8B6}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{54884505-4ADB-4CFA-806E-7D1173F0D8B6}.Release|iPhone.ActiveCfg = Release|iPhone
+		{54884505-4ADB-4CFA-806E-7D1173F0D8B6}.Release|iPhone.Build.0 = Release|iPhone
+		{54884505-4ADB-4CFA-806E-7D1173F0D8B6}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{54884505-4ADB-4CFA-806E-7D1173F0D8B6}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB6FF353-63AA-4067-A65A-34049F732A37}
+	EndGlobalSection
+EndGlobal
